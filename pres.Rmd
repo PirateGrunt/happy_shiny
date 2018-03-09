@@ -1,0 +1,20 @@
+---
+title: "Happy Shiny people"
+---
+
+# Bare minimum
+
+## All you need
+
+1. ui <- fluidPage()
+3. server <- function(input, output, session)
+4. shinyApp(ui, server)
+
+## First enhancements
+
+1. Add some themes
+2. Add some tabs
+
+## References
+
+* http://shiny.rstudio.com/articles/layout-guide.html
