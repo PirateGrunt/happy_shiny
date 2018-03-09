@@ -13,6 +13,7 @@ title: "Happy Shiny people"
 ## First enhancements
 
 1. Add some themes
+
 2. Add some tabs
 
 ## References
